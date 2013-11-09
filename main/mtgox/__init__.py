@@ -1,0 +1,1 @@
+from mtgoxTranslator import MtgoxTranslator
